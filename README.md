@@ -41,7 +41,7 @@ Dare to be part of the adventure! Contribute and leave your mark on this epic jo
 5. **Submit a Pull Request.**
 
 ## Power BI Deployment
-**Link** : https://app.powerbi.com/groups/me/reports/5ae5f786-3b1b-426f-9b4c-88ddf801edd1/ReportSection?experience=power-bi
+
 
 ## License
 
@@ -53,8 +53,8 @@ This project operates under the [MIT License](LICENSE.md).
 
 For inquiries or deeper insights, contact our fearless explorer:
 
-**Author:** MURITHI DENIS GITOBU  
-**Email:** [iamdenis46@gmail.com]
+**Author:** LOYCE ZAWADI MUMBUA
+**Email:** [mumbualoyce@gmail.com]
 
 ## The Grand Finale 🎬
 
