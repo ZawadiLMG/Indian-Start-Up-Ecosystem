@@ -1,4 +1,4 @@
-# Indian Startup Ecosystem Analysis(2018–2021
+# Indian Startup Ecosystem Analysis(2018–2021)
 
 ## Introduction
 In this article, I examine India's startup ecosystem between 2018 and 2021. During this period, India witnessed a significant rise in the number of startups and funding opportunities. In 2020 alone, over 16,000 new tech companies emerged. Despite facing challenges in securing funding, investment firms displayed confidence in Indian startups, allocating a total budget of $8.4 billion in 2023.
