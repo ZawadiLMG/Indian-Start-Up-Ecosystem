@@ -32,9 +32,6 @@ The following questions will be addressed:
 ## How have funding trends evolved between 2018 and 2021?
 In 2018–2019, funding levels were relatively low across various sectors and industries. However, as 2021 unfolded, a significant change occurred as funding began to rise steadily. By the end of 2021, the total funding surged to an impressive $179 billion, marking a substantial increase compared to the preceding years.
 
-![Funding trends between 2018 and 2021](C:/Users/Zawadi/Pictures/a.PNG)
-
-
 This upward trend in funding signifies growing investor confidence and opportunities, indicating a potentially robust economic environment conducive to innovation and growth.
 
 ## What is the relationship between the amount of funding and the stage of the company?
