@@ -1,7 +1,7 @@
 ### Indian Startups Ecosystem
 
 ## Introduction
-In this article, we examine India’s startup ecosystem between 2018 and 2021.
+We examine India’s startup ecosystem between 2018 and 2021.
 
 During this period, India witnessed a significant rise in the number of startups and funding opportunities.
 
